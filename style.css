@@ -1,0 +1,93 @@
+body {
+  background-color: rgb(230,230,240);
+
+}
+
+h1 {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 64px;
+  letter-spacing: 6px;
+  color: #5D576B;
+  text-align: center;
+  margin: 20px 5px;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 10px;
+  color: #D496A7;
+  margin: 5px;
+}
+
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  color: #5D576B;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 32px;
+  color: #D496A7;
+  text-align: center;
+  line-height: 0.00001
+}
+
+
+p {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  color: #5D576B;
+  text-align: center;
+}
+
+
+a{
+  font-family: 'Nunito', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  color: #D496A7;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #90708C;
+}
+
+#pic img {
+  width: 250px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+#pic {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.images {
+  width: 600px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
+}
+
+.container {
+  width: 700px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+  padding-top: 10px;
+}
+
+.cards{
+  margin: 0 auto;
+  background-color: rgb(240,235,240);
+  border-radius: 10px;
+  padding: 50px;
+  padding-top: 25px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  margin-bottom: 25px;
+}
